@@ -20,8 +20,7 @@ I’m **Dileep Lingamallu**, a **Data Engineer** with 4+ years of experience in 
 
 ---
 ![Databricks Certified Data Engineer Associate](https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer%20Associate-red?style=for-the-badge&logo=databricks)
-
-![AWS Certified Data Engineer – Associate](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazonaws)
+![AWS Certified ](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazonaws)
 
 
 ---
