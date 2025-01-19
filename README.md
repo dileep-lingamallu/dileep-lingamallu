@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hello There, Welcome!
 
-<!--
-**dileep-lingamallu/dileep-lingamallu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Dileep Lingamallu**, a **Data Engineer** with 4+ years of experience in software and data engineering. I specialize in building scalable data pipelines, optimizing data systems, and enabling actionable insights through cutting-edge technologies. I am actively seeking new roles.  
 
-Here are some ideas to get you started:
+**📫 How to reach me** : [LinkedIn](https://linkedin.com/in/eswardileep99) | eswardileep99@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills & Technologies I am good at
+
+### **Languages**  : Python, SQL, R
+
+### **Data Engineering Tools**  
+- **Processing**: Apache Spark, Apache Kafka, ETL/ELT Processes, AWS Glue, Apache Airflow
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redshift, DynamoDB  
+- **Cloud Platforms**: AWS, GCP, Azure
+
+### 
+**Data Visualization**: Tableau, Power BI, Amazon QuickSight
+
+---
