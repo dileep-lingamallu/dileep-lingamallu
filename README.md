@@ -8,12 +8,7 @@ I’m **Dileep Lingamallu**, a **Data Engineer** with 4+ years of experience in 
 
 ## Skills & Technologies I am good at
 
-### **Languages**  : 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r&logoColor=white)
-
-
+### **Languages**  :  ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r&logoColor=white)
 
 ### **Data Engineering Tools**  
 - **Processing**: Apache Spark, Apache Kafka, ETL/ELT Processes, AWS Glue, Apache Airflow
@@ -24,6 +19,7 @@ I’m **Dileep Lingamallu**, a **Data Engineer** with 4+ years of experience in 
 **Data Visualization**: Tableau, Power BI, Amazon QuickSight
 
 ---
+###Certifications
 ![Databricks Certified Data Engineer Associate](https://img.shields.io/badge/Databricks-Certified-red?style=for-the-badge&logo=databricks)
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange)
 ---
