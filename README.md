@@ -8,7 +8,11 @@ I’m **Dileep Lingamallu**, a **Data Engineer** with 4+ years of experience in 
 
 ## Skills & Technologies I am good at
 
-### **Languages**  : ![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Intermediate-orange?style=for-the-badge&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-Statistical%20Computing-blue?style=for-the-badge&logo=r&logoColor=white)
+### **Languages**  : 
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r&logoColor=white)
+
 
 
 ### **Data Engineering Tools**  
