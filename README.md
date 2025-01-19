@@ -1,5 +1,7 @@
 ## 👋 Hello There, Welcome!
 
+> "Code is like humor. When you have to explain it, it’s bad."
+
 I’m **Dileep Lingamallu**, a **Data Engineer** with 4+ years of experience in software and data engineering. I specialize in building scalable data pipelines, optimizing data systems, and enabling actionable insights through cutting-edge technologies. I am actively seeking new roles.  
 
 **📫 How to reach me** : [LinkedIn](https://linkedin.com/in/eswardileep99) | eswardileep99@gmail.com
