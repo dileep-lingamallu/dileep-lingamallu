@@ -19,4 +19,4 @@ I’m **Dileep Lingamallu**, a **Data Engineer** with 4+ years of experience in 
 **Data Visualization**: Tableau, Power BI, Amazon QuickSight
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dileep123&show_icons=true)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange)
