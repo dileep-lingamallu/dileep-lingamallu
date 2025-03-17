@@ -17,7 +17,7 @@ I’m **Dileep Lingamallu**, a **Data Engineer** with 4+ years of experience in 
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redshift, DynamoDB  
 - **Cloud Platforms**: AWS, GCP, Azure
 
-**Data Visualization**: Tableau, Power BI, Amazon QuickSight
+**Data Visualization**: Power BI, Amazon QuickSight
 
 ### **Certifications** :
 
